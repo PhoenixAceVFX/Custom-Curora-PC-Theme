@@ -1,0 +1,30 @@
+.powercord-spotify {
+  transition: 0.5s;
+  border-top-right-radius: 8px;
+  position: fixed;
+  z-index: 1;
+  bottom: 0.5px;
+    left: 0px;
+  background-color: #111;
+    overflow: hidden;
+    width: 72px;
+}
+
+.powercord-spotify:hover {
+    width: 240px;
+}
+
+.panels-j1Uci_ .container-3baos1 {
+    border: 0;
+}
+
+.powercord-spotify .avatarWrapper-2yR4wp {
+    margin-left: 12px;
+    transition: 0.5s;
+    
+}
+
+.powercord-spotify:hover .avatarWrapper-2yR4wp {
+    margin-left: 0px;
+    
+}
