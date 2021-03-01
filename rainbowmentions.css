@@ -1,0 +1,22 @@
+@keyframes rainbowText {
+  from {
+    filter: hue-rotate(0deg);
+    background-position-x: 0%;
+    
+  }
+  to {
+    filter: hue-rotate(180deg);
+    background-position-x: 0%;
+    
+  }
+}
+
+.mentioned-xhSam7 .markup-2BOw-j {
+  background: -webkit-linear-gradient( 180deg, #e96eff, #ff6e72 );
+  border-left: 0px solid #faa61a;
+  border-radius: 3px;
+    width: 75%;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    animation: rainbowText 5s linear infinite alternate;
+}
