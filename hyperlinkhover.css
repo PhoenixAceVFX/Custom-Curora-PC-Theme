@@ -1,0 +1,36 @@
+.grid-1nZz7S {
+    overflow: visible !important;
+}
+.markup-2BOw-j a {
+    position: relative;
+}
+.markup-2BOw-j a::before {
+    content: attr(href);
+    position: absolute;
+    bottom: calc(100% + 5px);
+    left: 50%;
+    width: max-content;
+    max-width: 200px;
+    margin: auto;
+
+    background-color: black;
+    color: #dcddde !important;
+    font-weight: 500 !important;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    white-space: normal;
+    overflow-wrap: break-word;
+    padding: 8px 12px;
+    border-radius: 5px;
+    z-index: 100;
+    transform: scale(.98) translateY(2px) translateX(-50%);
+    filter: opacity(0);
+    pointer-events: none;
+    box-shadow: var(--elevation-high);
+    transition: transform .1s, filter .1s;
+}
+.markup-2BOw-j a:hover:before {
+    transform: translateX(-50%);
+    filter: opacity(1);
+}
