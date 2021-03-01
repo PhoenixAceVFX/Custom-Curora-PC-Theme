@@ -1,0 +1,11 @@
+/* Sorry, but we couldn't find who asked to write this snippet */
+.emptyResultsText-3mouZA {
+  visibility: hidden;
+  font-size: 0px;
+}
+.emptyResultsText-3mouZA:after {
+  visibility: visible !important;
+  content: "We searched far and wide. Unfortunately, we couldn't find the person who asked.";
+  font-size: 16px;
+  font-weight: 500;
+}
