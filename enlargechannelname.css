@@ -1,0 +1,8 @@
+.content-1x5b-n{
+  position:relative;
+  right:2px;
+}
+.content-1x5b-n:hover{
+   transform: scale(1.05);
+   transition:250ms ease;
+}
