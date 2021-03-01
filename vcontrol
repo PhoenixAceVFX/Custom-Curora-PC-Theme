@@ -1,0 +1,6 @@
+.container-1giJp5>.actionButtons-14eAc_{
+  display:none;
+}
+.container-1giJp5:hover>.actionButtons-14eAc_{
+  display:flex;
+}
