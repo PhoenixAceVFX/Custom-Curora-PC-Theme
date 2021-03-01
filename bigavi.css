@@ -1,0 +1,8 @@
+/* Bigger avatar on popups */
+.header-QKLPzZ > .avatar-3EQepX.wrapper-3t9DeA {top: 5px;}
+.avatarWrapperNormal-3wFMbf.avatarWrapper-3H_478 > .wrapper-3t9DeA,
+.header-QKLPzZ > .avatar-3EQepX.wrapper-3t9DeA,
+.avatarHint-1qgaV3 {
+    width: 100px !important;
+    height: 100px !important;
+}
