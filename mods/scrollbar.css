@@ -1,0 +1,19 @@
+:root {
+    --burple: rgb(114, 137, 218);
+    --scrollbar-thumb-dark: #f8f9fa !important;
+    --scrollbar-track-dark: --burple !important;
+  }
+  
+  }
+  ::-webkit-scrollbar {
+      width: 10px;
+      border-radius: 25px;
+      background-color: var(--scrollbar-track-dark) !important;
+  }
+  ::-webkit-scrollbar-thumb {
+      border-radius: 25px;
+      background-color: var(--burple) !important;
+  }
+  ::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
