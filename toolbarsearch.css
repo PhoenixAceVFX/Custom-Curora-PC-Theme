@@ -1,0 +1,16 @@
+.search-36MZv- {order: -1;}
+.searchBar-3dMhjb {
+    width: 28px;
+    transition: width 0.6s ease-in-out;
+    color:#fff;
+    background: none;
+}
+.focused-31_ccS .searchBar-3dMhjb,
+.open-6_Y_aH .searchBar-3dMhjb,
+.searchBar-3dMhjb:hover {
+    width: 240px;
+    background: var(--background-tertiary);
+}
+.icon-3cZ1F_{height: 24px;width: 24px;color:var(--interactive-normal);}
+.iconContainer-O4O2CN{bottom: 3px;}
+.search-36MZv-{margin-left: 0px;}
