@@ -1,0 +1,31 @@
+.wrapper-2a6GCs.ephemeral-1PsL1r .username-1A8OIy {
+   --local-bot-name: "Senko-San"; /* Change this */
+}
+
+.wrapper-2a6GCs.ephemeral-1PsL1r {
+   background-color: rgba(114, 137, 218, 0.05);
+   box-shadow: inset 2px 0 #7289DA;
+}
+.wrapper-2a6GCs.ephemeral-1PsL1r:hover {
+   background-color: rgba(114, 137, 218, 0.12) !important;
+}
+
+.wrapper-2a6GCs.ephemeral-1PsL1r [src*="powercord"],
+.wrapper-2a6GCs.ephemeral-1PsL1r [src*="/assets/"] {
+   content: url("https://cdn131.picsart.com/316039803375201.jpg"); /* Change This */
+}
+
+.wrapper-2a6GCs.ephemeral-1PsL1r .username-1A8OIy {
+   visibility: hidden;
+}
+.wrapper-2a6GCs.ephemeral-1PsL1r .username-1A8OIy::before {
+   content: var(--local-bot-name);
+   visibility: visible;
+}
+
+.wrapper-2a6GCs.ephemeral-1PsL1r [src*="powercord"] + .header-23xsNx > .headerText-3Uvj1Y > .botTagCozy-1fFsZk {
+   margin-left: -65px;
+}
+.wrapper-2a6GCs.ephemeral-1PsL1r [src*="/assets/"] + .header-23xsNx > .headerText-3Uvj1Y > .botTagCozy-1fFsZk {
+   margin-left: -30px;
+}

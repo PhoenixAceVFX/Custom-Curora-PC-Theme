@@ -1,0 +1,4 @@
+div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+    content: "PhoenixAceVFX Custom";
+    display: block;
+  }
