@@ -1,0 +1,8 @@
+.buttons-3JBrkn {
+  opacity: 0;
+  transition: opacity 0.1s;
+}
+
+.channelTextArea-rNsIhG:hover .buttons-3JBrkn {
+  opacity: 1.0;
+}
