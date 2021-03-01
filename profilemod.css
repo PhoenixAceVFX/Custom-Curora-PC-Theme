@@ -1,0 +1,9 @@
+.theme-dark .avatarUploaderIndicator-2G-aIZ {
+    display: none;
+} /* Removes the useless icon in settings when uploading an avatar*/
+.avatarUploaderInner-2EvNMg {
+    border-radius: unset;
+} /* Makes avatar in settings square*/
+.background-1QDuV2 {
+    border-radius: 20px;
+} /* Changes the border raidius of the user card*/
