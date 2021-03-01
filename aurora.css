@@ -1,0 +1,55 @@
+/*Main Theme*/	
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/base.css');
+/*After Mods*/
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/aftermods.css');*/
+/*Individual Mods*/
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/attachtoright.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/betterspotifyplayer.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/bigavi.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/channelcolors.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/chatbox.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/codeblocks.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/customusernames.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/discordupdate.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/enlargechannelnames.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/hoverchatbuttons.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/hyperlinkhover.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/jumppill.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/largefilemodal.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/nametags.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/newrole.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/profilemod.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/rainbowmentions.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/rainbowtext.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/roundcontextmodals.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/roundreactions.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/searchmodal.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/spoilers.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/spotifycontrols.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/startprompt.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/toolbarsearch.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/vcontrol.css');
+
+:root {	
+/*Color Variables*/	
+	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
+	--gradient1: #3ecc9c; /*First Gradient Color*/	
+	--gradient2: #185a9d; /*Second Gradient Color*/	
+	--hover-color: rgb(67, 206, 162); /*Secondary Accent of the Theme*/	
+	--main-color-faded: rgba(67, 206, 162, 0.2); /*Faded Main Color*/	
+/*Backdrop Variables*/	
+	--backdrop: url(https://i.imgur.com/xcjXx3E.jpg); /*Normal Backdrop*/	
+	--backdropblurred: url(https://i.imgur.com/ExNrzGV.jpg); /*Darker/Blurred Version of Backdrop*/	
+	--backdrop-darkness:transparent; /*Brightness of var(--backdrop);*/	
+/*Roundness Variables*/	
+	--chat-avatar-roundness:5px !important; /*Roundness of chat avatars*/	
+	--media-roundness:50px !important; /*General Roundness*/	
+	--guild-hovered-roundness:12px !important; /*Roundness of servers on hover*/	
+/*Status Variables*/	
+	--online: #43b581 !important; /*Color When someone is Online*/	
+	--idle: #faa61a !important; /*Color When someone is Idle*/	
+	--dnd: #f04747 !important; /*Color When someone is in Do Not Disturb*/	
+	--offline: #636b75 !important; /*Color When someone is offline*/	
+	--invisible: #747f8d !important; /*Color When someone is Invisible*/	
+	--streaming: #643da7 !important; /*Color When someone is Streaming*/	
+}
