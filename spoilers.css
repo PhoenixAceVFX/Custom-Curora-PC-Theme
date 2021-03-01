@@ -1,0 +1,12 @@
+.inline-2bgipb.hiddenSpoilers-1ksnR6 { visibility: visible; }
+.inline-2bgipb.hiddenSpoilers-1ksnR6 img { filter: blur(3rem); }
+.inline-2bgipb.hiddenSpoilers-1ksnR6::after {
+    content: "SPOILER";
+    color: var(--text-normal);
+    display: block;
+    text-align: center;
+    top: calc(50% - 0.5rem);
+    position: absolute;
+    width: 100%;
+    font-weight: bold;
+}
