@@ -1,0 +1,12 @@
+.barButtonMain-3K-jeJ { display: none; }
+.jumpToPresentBar-G1R9s6 {
+    display: block;
+    background-color: transparent;
+}
+.barButtonAlt-mYL1lj {
+    float: right;
+    bottom: 1rem;
+    z-index: 999; /* Forgive me CSS gods */
+    border-radius: 0.7rem;
+    background-color: var(--background-tertiary);
+}
