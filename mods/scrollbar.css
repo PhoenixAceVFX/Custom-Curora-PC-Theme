@@ -1,5 +1,5 @@
 :root {
-    --burple: rgb(114, 137, 218);
+    --burple: rgb(95, 255, 194);
     --scrollbar-thumb-dark: #f8f9fa !important;
     --scrollbar-track-dark: --burple !important;
   }
@@ -15,5 +15,5 @@
       background-color: var(--burple) !important;
   }
   ::-webkit-scrollbar-track {
-      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      box-shadow: inset 0 0 6px rgba(95, 255, 194, 0.5);
   }

@@ -1,0 +1,55 @@
+.membersWrap-2h-GB4, .membersWrap-2h-GB4 .scroller-2FKFPG {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+/* GROUP HEADER */
+.membersGroup-v9BXpm {
+    opacity: 0;
+    transition: all 500ms;
+}
+
+.membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
+    transition: all 500ms;
+    opacity: 1;
+}
+
+/* PRE-HOVER DIV to fix spam-open bugs */
+
+.membersWrap-2h-GB4:before {
+    width: 15px;
+    content: "";
+}
+
+/* MOVE THE MEMBERLIST DIV TO THE RIGHT */
+
+.membersWrap-2h-GB4 {
+    -webkit-transform: translateX(220px);
+    transform: translateX(220px);
+    position: absolute;
+}
+
+/* MEMBERLIST CONTENT */
+
+.members-1998pB {
+    width: 265px;
+    overflow: hidden;
+    border-radius: .5em 0 0 .5em;
+    transition: all 500ms;
+    -webkit-transition: all 500ms;
+}
+
+.membersWrap-2h-GB4:hover .members-1998pB {
+    -webkit-transform: translateX(-220px);
+    transform: translateX(-220px);
+    overflow: auto;
+    width: 265px!important;
+    transition: all 500ms;
+    background-color: var(--darkgrey5)!important;
+}
+
+/* RESIZE CHAT CONTENT TO SHOW THE SCROLLBAR */
+
+.chatContent-a9vAAp { margin-right: 60px;}

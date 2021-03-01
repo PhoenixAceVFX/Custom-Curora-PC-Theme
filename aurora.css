@@ -36,7 +36,9 @@
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/rgbcontrols.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/camfix.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/scrollbar.css');
-
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/uielements.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/serverlisthover.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/colorsvg.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
