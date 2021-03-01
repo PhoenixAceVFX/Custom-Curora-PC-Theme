@@ -1,16 +1,34 @@
 .powercord-spotify {
-  transition: right 0.4s;
-  border-top-left-radius: 25px;
+  transition: 0.5s;
+  border-top-right-radius: 8px;
   position: fixed;
   z-index: 1;
   bottom: 0.5px;
-  right: -193px;
-  width: 240px;
-  background-color: var(--background-secondary);
-  border-top: 1px solid var(--spotify-color);
-  border-left: 1px solid var(--spotify-color);
+  left: 0px;
+  background-color: #111;
+  overflow: hidden;
+  width: 72px;
 }
 
 .powercord-spotify:hover {
-    right: 0px;
+    width: 240px;
 }
+
+.panels-j1Uci_ .container-3baos1 {
+    border: 0;
+}
+
+.powercord-spotify .avatarWrapper-2yR4wp {
+    margin-left: 12px;
+    transition: 0.5s;
+    
+}
+ 
+  .powercord-spotify:hover .avatarWrapper-2yR4wp {
+   margin-left: 0px;
+    
+}
+
+.powercord-spotify .flex-1xMQg5{
+    display: none;
+  }
