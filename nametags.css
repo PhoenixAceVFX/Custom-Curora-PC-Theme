@@ -1,0 +1,33 @@
+.cozy-3raOZG .username-1A8OIy {
+  position: relative;
+  padding: 2px 6px 3px 6px;
+}
+.cozy-3raOZG .username-1A8OIy::after {
+  content: "";
+  background: linear-gradient(to left, currentColor, currentColor, rgba(0, 0, 0, 0.1), currentColor, currentColor);
+  background-size: 1800% 1800%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  opacity: 0.5;
+  border-radius: 5px;
+  z-index: -1;
+  animation: slide 5s infinite ease-in-out;
+  filter: invert(1);
+  border-radius: 0px 15px;
+  border-style: solid;
+  border-width: thin;
+}
+@keyframes slide {
+  0% {
+    background-position: 0% 82%
+  }
+  50% {
+    background-position: 100% 19%
+  }
+  100% {
+    background-position: 0% 82%
+  }
+}
