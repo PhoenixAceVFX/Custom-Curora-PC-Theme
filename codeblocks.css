@@ -1,0 +1,38 @@
+.hljs-name, .hljs-section, .hljs-selector-class, .hljs-selector-id, .hljs-title {
+    color #268bd2;
+    text-shadow: 0px 0px 15px #268bd2f0;
+}
+
+.hljs-addition, .hljs-keyword, .hljs-selector-tag {
+    color: #859900;
+    text-shadow: 0px 0px 15px #859900f0;
+}
+
+.hljs-attr, .hljs-attribute, .hljs-class .hljs-title, .hljs-template-variable, .hljs-type, .hljs-variable {
+    color: #b58900;
+    text-shadow: 0px 0px 15px #b58900f0;
+}
+.hljs-bullet, .hljs-link, .hljs-meta, .hljs-meta .hljs-keyword, .hljs-selector-attr, .hljs-selector-pseudo, .hljs-subst, .hljs-symbol {
+    color: #cb4b16;
+    text-shadow: 0px 0px 15px #cb4b16f0;
+}
+.hljs-built_in, .hljs-deletion {
+    color: #dc322f;
+    text-shadow: 0px 0px 15px #dc322ff0;
+}
+
+.hljs-doctag, .hljs-literal, .hljs-meta .hljs-meta-string, .hljs-number, .hljs-regexp, .hljs-string {
+    color: #2aa198;
+    text-shadow: 0px 0px 15px #2aa198f0;
+}
+
+.anchor-3Z-8Bb {
+    color: #5e2aa1;
+    text-shadow: 0px 0px 10px #5e2aa1f0;
+}
+
+*::selection {
+    color: #16b5f9;
+    text-shadow: 0px 0px 10px #16b5f9;
+    background: none !important;
+}
