@@ -1,0 +1,23 @@
+/* color current channel bright pink, and add arrow in front of it */
+[class*='modeSelected'] [class*='name']
+{
+    color: rgba(255, 81, 179, .9) !important;
+    padding-left: 5px
+}
+
+[class*='modeSelected'] [class*='name']:before
+{
+    content: "-> ";
+}
+
+/* color unread channels bright green, and add arrows after them */
+[class*='modeUnread'] [class*='name']
+{
+    color: #39FF14 !important;
+    padding-left: 3px
+}
+
+[class*='modeUnread'] [class*='name']:after
+{
+    content: " <-";
+}
