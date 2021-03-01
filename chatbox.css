@@ -1,0 +1,27 @@
+/** Chat box */
+.form-2fGMdU {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.channelTextArea-rNsIhG, .popout_7205, .form-2fGMdU  {
+  background: rgba(0,0,0, 0);
+  margin-bottom: 5px;
+}
+
+.typing-2GQL18, .base-gE7OpD {
+  margin-bottom: 5px;
+  background-color: rgba(0,0,0,0.2);
+  backdrop-filter: blur(5px);
+  border-radius: 50px;
+  position: relative;
+  margin-right: 35px;
+}
+
+.scrollerSpacer-avRLaA {
+  height: 15px
+}
+
+.cooldownWrapper-3joyFc {
+  margin-right: 5px;
+}
+/** Chat box */
