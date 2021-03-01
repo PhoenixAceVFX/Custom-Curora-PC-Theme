@@ -1,0 +1,20 @@
+@keyframes rainbowText {
+  from {
+    filter: hue-rotate(0deg);
+    background-position-x: 0%;
+    
+  }
+  to {
+    filter: hue-rotate(360deg);
+    background-position-x: 600vw;
+    
+  }
+}
+
+.message-2qnXI6[data-author-id="USER_ID"] .username-1A8OIy, .nameTag-3uD-yy .title-eS5yk3 {
+  background: -webkit-linear-gradient( 90deg, #e96eff, #ff6e72 );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbowText 5s linear infinite alternate;
+    font-weight: bold;
+}
