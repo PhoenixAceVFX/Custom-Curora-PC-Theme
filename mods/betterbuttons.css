@@ -1,0 +1,43 @@
+/**Popout Window Buttons v1 */
+.titleBar-AC4pGV>*:nth-child(2):hover {
+    transform: scale(1);
+    border-radius: 0 0 0 0;
+    background-color: #f04747;
+    filter:none;
+      transition:200ms ease;
+  }
+  .titleBar-AC4pGV>*:nth-child(2){
+    transform: scale(0.70);
+    border-radius: 50px 50px 50px 50px;
+    background-color: #f04747;
+    filter:blur(2px) contrast(75%) grayscale(15%);
+      transition:200ms ease;
+  }
+  .titleBar-AC4pGV>*:nth-child(3):hover {
+    transform: scale(1);
+    border-radius: 0 0 0 0;
+    background-color: #056295;
+    filter:none;
+      transition:200ms ease;
+  }
+  .titleBar-AC4pGV>*:nth-child(3){
+    transform: scale(0.70);
+    border-radius: 50px 50px 50px 50px;
+    background-color: #056295;
+    filter:blur(2px) contrast(75%) grayscale(15%);
+      transition:200ms ease;
+  }
+  .titleBar-AC4pGV>*:nth-child(4):hover {
+    transform: scale(1);
+    border-radius: 0 0 0 0;
+    background-color: #FDB100;
+    filter:none;
+      transition:200ms ease;
+  }
+  .titleBar-AC4pGV>*:nth-child(4){
+    transform: scale(0.70);
+    border-radius: 50px 50px 50px 50px;
+    background-color: #FDB100;
+    filter:blur(2px) contrast(75%) grayscale(15%);
+      transition:200ms ease;
+  }
