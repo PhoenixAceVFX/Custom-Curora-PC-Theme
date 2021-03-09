@@ -1,0 +1,53 @@
+/*
+    * Each 1px you increase of border-length, increase left-margin 1px.
+    * Each 1px you decrease of border-length, decrease the left margin 1px.
+    * DO NOT REMOVE THE NEGATIVE SYMBOL. 
+    * You can remove these lines if you want.
+*/
+
+:root {
+    --border-length: 3px;
+    --left-margin: -7px;
+
+    --mentioned-border: #FAA61A;
+    --mentioned-bg: var(--background-mentioned);
+    --mentioned-bg-hover: var(--background-mentioned-hover);
+
+    --replying-border: #7289da;
+    --replying-bg: rgba(114, 137, 218, 0.05);
+    --replying-bg-hover: rgba(114, 137, 218, 0.1);
+}
+
+#app-mount .mentioned-xhSam7,
+#app-mount .replying-1x3H0T {
+    background: transparent;
+}
+#app-mount .mentioned-xhSam7::before,
+#app-mount .replying-1x3H0T::before {
+    content: none;
+}
+#app-mount .mentioned-xhSam7 .contents-2mQqc9 .messageContent-2qWWxC,
+#app-mount .replying-1x3H0T .contents-2mQqc9 .messageContent-2qWWxC {
+    border-left: solid var(--border-length);
+    border-radius: 2px;
+    padding-right: 10px;
+    padding-left: 4px;
+    margin-left: var(--left-margin);
+    width: 100%;
+}
+
+#app-mount .mentioned-xhSam7 .contents-2mQqc9 .messageContent-2qWWxC {
+    background-color: var(--mentioned-bg);
+    border-color: var(--mentioned-border);
+}
+#app-mount .mentioned-xhSam7:hover .contents-2mQqc9 .messageContent-2qWWxC {
+    background-color: var(--mentioned-bg-hover);
+}
+
+#app-mount .replying-1x3H0T .contents-2mQqc9 .messageContent-2qWWxC {
+    background-color: var(--replying-bg);
+    border-color: var(--replying-border);
+}
+#app-mount .replying-1x3H0T:hover .contents-2mQqc9 .messageContent-2qWWxC {
+    background-color: var(--replying-bg-hover);
+}

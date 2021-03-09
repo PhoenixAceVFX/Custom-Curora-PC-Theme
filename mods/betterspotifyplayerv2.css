@@ -1,0 +1,12 @@
+.powercord-spotify>.container-3baos1{
+  display: none;
+}
+.powercord-spotify.hover>.container-3baos1{
+  display: flex;
+}
+.powercord-spotify:hover>.container-3baos1{
+  display: flex;
+}
+.spotify-seek-bar,.powercord-spotify .spotify-seek-bar-progress{
+  height:4px !important;
+}

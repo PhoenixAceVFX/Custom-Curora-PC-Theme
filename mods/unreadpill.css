@@ -1,0 +1,12 @@
+/** Unread Pill Bar v1 */
+.newMessagesBar-265mhP {
+    width: 500px;
+      top: 1.6rem;
+    left: auto;
+    right: 12px;
+    border-radius: 0.7rem 0 0 0.7rem;
+        float: right;
+}
+.newMessagesBar-265mhP.barBase-1c2Rfb .barButtonAlt-mYL1lj.barButtonBase-2uLO1z {
+    width: auto;
+}
