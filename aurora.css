@@ -39,6 +39,9 @@
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/uielements.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/serverlisthover.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/colorsvg.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/descdrag.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/glowhash.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/macbuttons.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
