@@ -1,0 +1,6 @@
+.cozy-3raOZG .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK), .embedFull-2tM8--, .wrapper-35wsBm,
+.message-2qnXI6 .imageWrapper-2p5ogY,
+.cozy-3raOZG .repliedMessage-VokQwo {
+  box-shadow: 8px  8px  0px  var(--background-tertiary) !important;
+/*Parameters: PosX PosY Blur Color */
+}

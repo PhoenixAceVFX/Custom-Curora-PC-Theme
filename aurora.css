@@ -49,6 +49,7 @@
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/servermembersdrawer.css');*/
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/channeldrawers.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/loud.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/messagebubbles.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
