@@ -7,7 +7,7 @@
 
 [class*='modeSelected'] [class*='name']:before
 {
-    content: "<#> ";
+    content: "";
 }
 
 /* color unread channels bright green, and add arrows after them */
@@ -19,5 +19,5 @@
 
 [class*='modeUnread'] [class*='name']:after
 {
-    content: " <#>";
+    content: "";
 }
