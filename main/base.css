@@ -4290,6 +4290,49 @@ body::before {
   }
   /*============== END OF SECTION ============== */
   
+  .flex-1xMQg5 {
+    background-image: url(https://i.imgur.com/Zdojm22.gif);
+}
+.container-3baos1, .container-3baos1 .avatar-SmRMf2 {
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(https://i.imgur.com/Zdojm22.gif);
+      border-radius: 15px;
+}
+.topSectionNormal-2-vo2m {
+    background-image: url(https://i.imgur.com/Zdojm22.gif);
+}
+.body-3ND3kc {
+    height: 240px;
+    background-image: url(https://i.imgur.com/Zdojm22.gif);
+}
+.avatar-1BDn8e[src*="you ID"]:hover + h2::after {
+  color: var(--main-color);
+  background-image: url(https://i.imgur.com/Zdojm22.gif);
+  --main-color: #a980ee;
+  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  border-radius: 15px;
+  content: "The creator of the theme your using";
+}
+.avatar-1BDn8e[src*="538759280057122817"] + h2.header-23xsNx {
+    --tag-text: 'PhoenixAceVFX Themself';
+    --tag-bg1: #a980ee;
+}
+.avatar-1BDn8e[src*="538759280057122817"] + h2 > span.timestamp-3ZCmNB::before {
+    color: #000 !important;
+    background: var(--tag-bg1) !important;
+    content: var(--tag-text);
+    font-size: .8em;
+    font-weight: 500;
+    height: 2.28em;
+    padding: .072rem .275rem;
+    border-radius: 3px;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    margin-right: .50rem;
+    margin-left: -.25rem;
+}
+
   /*11. Friends */
   /*11.a. Friends*/
   .container-1D34oG {

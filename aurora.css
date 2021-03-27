@@ -44,12 +44,15 @@
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/betterbuttons.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/betterspotifyplayerv2.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/unreadpill.css');
-@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/oldmentions.css');
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/oldmentions.css');*/
+@import url('https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/Discolored.css');
+@import url('https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/app/import.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/switchestobuttons.css');
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/servermembersdrawer.css');*/
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/channeldrawers.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/loud.css');
-@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/messagebubbles.css');
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/messagebubbles.css');*/
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/voicecontrols.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
