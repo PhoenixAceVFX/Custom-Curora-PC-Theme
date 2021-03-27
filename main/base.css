@@ -4314,11 +4314,11 @@ body::before {
   border-radius: 15px;
   content: "The creator of the theme your using";
 }
-.avatar-1BDn8e[src*="538759280057122817"] + h2.header-23xsNx {
+.avatar-1BDn8e[src*="461440763042201620"] + h2.header-23xsNx {
     --tag-text: 'PhoenixAceVFX Themself';
     --tag-bg1: #a980ee;
 }
-.avatar-1BDn8e[src*="538759280057122817"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-1BDn8e[src*="461440763042201620"] + h2 > span.timestamp-3ZCmNB::before {
     color: #000 !important;
     background: var(--tag-bg1) !important;
     content: var(--tag-text);
