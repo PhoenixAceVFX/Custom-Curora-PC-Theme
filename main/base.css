@@ -4309,17 +4309,17 @@ body::before {
   background-size: 100%;
     background-image: url(https://i.imgur.com/Zdojm22.gif);
 }
-.avatar-1BDn8e[src*="you ID"]:hover + h2::after {
+.avatar-1BDn8e[src*="461440763042201620"]:hover + h2::after {
   color: var(--main-color);
   background-image: url(https://i.imgur.com/Zdojm22.gif);
   background-size: 100%;
   --main-color: #00ffb3;
   text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   border-radius: 15px;
-  content: "The creator of the theme your using";
+  content: "Developer";
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2.header-23xsNx {
-    --tag-text: 'PhoenixAceVFX Themself';
+    --tag-text: 'Dev';
     --tag-bg1: #00ffb3;
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2 > span.timestamp-3ZCmNB::before {
