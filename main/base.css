@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 @import url('https://therealgwjosh.github.io/CustomUserBadges/main/main.css');
@@ -264,11 +264,11 @@ body::before {
 	  padding-top:0px !important;
   }
   .wordmark-2iDDfm:after {
-	  content: 'PowerCord';
+	  content: 'Aroma White';
 	  position: absolute !important;
 	  left: 5px;
 	  width: 100vw;
-	  font-family: 'Satisfy';
+	  font-family: 'Comfortaa';
 	  color: rgba(255,255,255,0.8);
 	  font-size: 19px;
 	  font-weight: bold;
@@ -1274,7 +1274,7 @@ body::before {
   /*4.b. Account Deatils Container*/
   .container-2Thooq {background:transparent !important;}
   .accountDetails-3k9g4n .username {
-	  font-family:'satisfy';
+	  font-family:'Comfortaa';
 	  font-weight:800 !important;
 	  color:var(--hover-color);
   }
@@ -4316,10 +4316,10 @@ body::before {
   --main-color: #00ffb3;
   text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   border-radius: 15px;
-  content: "Developer";
+  content: "Aroma White";
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2.header-23xsNx {
-    --tag-text: 'Dev';
+    --tag-text: 'PAFF';
     --tag-bg1: #00ffb3;
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2 > span.timestamp-3ZCmNB::before {
