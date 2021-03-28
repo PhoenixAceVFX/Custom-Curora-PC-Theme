@@ -3,6 +3,7 @@
 /*After Mods*/
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/aftermods.css');*/
 /*Individual Mods*/
+@import url('https;//phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/serverlist.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/attachtoright.css');
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/betterspotifyplayer.css');*/
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/bigavi.css');
@@ -49,12 +50,11 @@
 @import url('https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/app/import.css');
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/switchestobuttons.css');
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/servermembersdrawer.css');*/
-@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/channeldrawers.css');
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/channeldrawers.css');*/
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/loud.css');
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/messagebubbles.css');*/
-@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/voicecontrols.css');
-/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/oldchanneldrawer.css');*/
-
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/voicecontrols.css');*/
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/oldchanneldrawer.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
