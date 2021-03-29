@@ -4292,27 +4292,27 @@ body::before {
   
   .flex-1xMQg5 {
     background-image: url(null);
-    background-size: cover;
+    background-size: stretch;
 }
 .container-3baos1, .container-3baos1 .avatar-SmRMf2 {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     background-image: url(https://thumbs.gfycat.com/WeepyGloomyJerboa-max-1mb.gif);
-    background-size: cover;
+    background-size: stretch;
       border-radius: 15px;
 }
 .topSectionNormal-2-vo2m {
     background-image: url(null);
-    background-size: cover;
+    background-size: stretch;
 }
 .body-3ND3kc {
-  background-size: cover;
+  background-size: stretch;
     background-image: url(null);
 }
 .avatar-1BDn8e[src*="461440763042201620"]:hover + h2::after {
   color: var(--main-color);
   background-image: url(https://thumbs.gfycat.com/WeepyGloomyJerboa-max-1mb.gif);
-  background-size: cover;
+  background-size: stretch;
   --main-color: #00ffb3;
   text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   border-radius: 15px;
