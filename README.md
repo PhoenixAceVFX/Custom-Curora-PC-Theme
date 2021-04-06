@@ -8,4 +8,8 @@ You can toggle individual aftermods in the aurora.css
 
 Just use this in your cmd to download it (make sure your in your powercord themes folder)  
 
-git clone https://github.com/PhoenixAceVFX/Custom-Curora-PC-Theme
+git clone https://github.com/PhoenixAceVFX/Custom-Curora-PC-Theme  
+
+# THEME IS COMPATABLE WITH BETTERDISCORD  
+You have to put the code from the CSS in "Custom CSS" for it to work (No im not adding meta to make it easier for you)  
+There will be compat issues due to differing modals but it mostly works
