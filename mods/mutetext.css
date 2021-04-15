@@ -1,0 +1,12 @@
+/* Red mutetext wit a Icon */
+.muteText-gutGxh {
+    color: red;
+    margin-top: 3px;
+    margin-left: 1.5px;
+    background: url('https://svgur.com/i/W9K.svg') no-repeat;
+    background-size: 23px;
+  }
+  
+  .muteText-gutGxh::before {
+    content: "‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‏‏‎ ‎‎‏‏‎ ‎";
+  }

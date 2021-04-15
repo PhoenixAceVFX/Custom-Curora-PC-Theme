@@ -1,0 +1,28 @@
+@keyframes spinny-rainbow-logo {
+    0%   { transform: rotate(0deg); }
+    5%   { color: mediumvioletred; }
+    10%  { color: red; }
+    15%  { color: orangered; }
+    25%  { color: gold; }
+    35%  { color: greenyellow; }
+    40%  { color: limegreen; }
+    45%  { color: mediumspringgreen; }
+    50%  { color: aquamarine; }
+    55%  { color: darkturquoise; }
+    65%  { color: dodgerblue; }
+    70%  { color: cornflowerblue; }
+    75%  { color: mediumslateblue; }
+    80%  { color: mediumorchid; }
+    85%  { color: fuchsia; }
+    90%  { color: plum; }
+    95%  { color: deeppink; }
+    100% { transform: rotate(360deg); }
+  }
+  .childWrapper-anI2G9:hover > .homeIcon-FuNwkv,
+  .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 > .homeIcon-FuNwkv {
+    animation: spinny-rainbow-logo 7.5s linear infinite;
+  }
+  .childWrapper-anI2G9,
+.childWrapper-anI2G9:hover {
+  background-color: rgba(0, 0, 0, .2) !important;
+}

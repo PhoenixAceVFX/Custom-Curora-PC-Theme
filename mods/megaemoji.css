@@ -1,0 +1,33 @@
+.reactionTooltipContent-2TwEIL {
+    display: block;
+    text-align: center;
+  }
+  .reactionTooltipEmoji-3LG0v8.emoji {
+    height: 110px; /* or whatever size you want */
+    width: 100%;
+    display: block;
+    margin-bottom: 9px;
+  }
+
+  /* Resizing the Emoji and making it large */
+.emojiSection-3Fb9ix img {
+  margin: auto;
+  min-width: 80%;
+  height: auto !important;
+}
+/* Resizing the Emoji and making it large End */
+
+/* Text Wrapping */
+.emojiSection-3Fb9ix > .noWrap-3jynv6, .emojiSection-3Fb9ix{
+  flex: wrap;
+  flex-direction: column !important;
+}
+/* Text Wrapping End */
+
+/* Adjusting the text weight and aligning it to center */
+.emojiName-27Bjxw {
+  font-weight: 600;
+  margin-top: 8px;
+  text-align: center;
+}
+/* Adjusting the text weight and aligning it to center End */

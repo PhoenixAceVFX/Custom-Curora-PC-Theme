@@ -55,6 +55,18 @@
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/messagebubbles.css');*/
 /*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/voicecontrols.css');*/
 @import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/oldchanneldrawer.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/home.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/bannerlock.css');
+@import url('https://raw.githack.com/leeprky/FullyThemedDiscord/main/source.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/megaemoji.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/homecolor.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/statussize.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/statusbar.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/mutetext.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/newheaders.css');
+@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/friendgrid.css');
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/rgbhome.css');*/
+/*@import url('https://phoenixacevfx.github.io/Custom-Curora-PC-Theme/mods/listtest.css');*/
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	

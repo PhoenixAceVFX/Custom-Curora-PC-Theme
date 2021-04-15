@@ -1,0 +1,18 @@
+/* COLORATION HEADERS MEMBER + CATEGORIES */
+/* Member list */
+.membersGroup-v9BXpm, .membersGroup-v9BXpm::before, .membersGroup-v9BXpm::after{
+    color: #fff !important;
+  }
+  /* channel */
+  .name-3l27Hl::before {
+    background: linear-gradient(to left, #fff 50%, transparent) !important;
+  }
+  .name-3l27Hl {
+    color: #fff !important;
+  }
+  .name-3l27Hl::after {
+    background: linear-gradient(to right, #fff 50%, transparent) !important;
+  }
+  .addButtonIcon-2CbG1X {
+    color: #fff
+  }

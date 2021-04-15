@@ -1,0 +1,12 @@
+.childWrapper-anI2G9 {
+    --props: .35s ease-in-out;  
+    color: rgb(0, 255, 242);
+    background-color: rgb(0, 0, 0);
+    transition: color var(--props),
+                background-color var(--props);
+  }
+  .childWrapper-anI2G9:hover,
+  .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+    color: rgb(0, 17, 255);
+    background-color: rgb(255, 255, 255);
+  }

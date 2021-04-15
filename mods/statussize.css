@@ -1,0 +1,16 @@
+.customStatusText-3YJeRZ {
+    display: block;
+  }
+  .customStatusEmoji-7MXCgv {
+    --props: 1.1s ease-in-out;
+    margin: -1px auto 5px;
+    width: 60px !important;
+    height: 60px !important;
+    transition: width var(--props),
+                height var(--props);
+  }
+  .customStatusEmoji-7MXCgv:hover {
+    margin-bottom: 9px;
+    width: 120px !important;
+    height: 120px !important;
+  }
