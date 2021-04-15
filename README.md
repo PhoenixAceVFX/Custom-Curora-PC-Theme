@@ -10,4 +10,6 @@ git clone https://github.com/PhoenixAceVFX/Aroma-White
 
 # THEME IS COMPATABLE WITH BETTERDISCORD  
 You have to put the code from the CSS in "Custom CSS" for it to work (No im not adding meta to make it easier for you)  
-There will be compat issues due to differing modals but it mostly works
+There will be compat issues due to differing modals but it mostly works  
+
+<img src="https://github.com/PhoenixAceVFX/Aroma-White/blob/main/BDx3p2gh.png" />
