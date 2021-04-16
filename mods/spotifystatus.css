@@ -1,0 +1,26 @@
+.topSectionSpotify-1lI0-P .assets-VMAukC img {
+    --props: 1s linear;
+    transition: height var(--props), width var(--props);
+  }
+  .topSectionSpotify-1lI0-P .assets-VMAukC:hover {
+    left: 55px;
+    bottom: 30px;
+  }
+  .topSectionSpotify-1lI0-P .assets-VMAukC:hover img {
+    right: 54px;
+    top: 30px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+  }
+  .topSectionSpotify-1lI0-P .contentImagesProfile-1Mz07W {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  .topSectionSpotify-1lI0-P .fullWidth-1orjjo {
+    width: 33px;
+  }
+  .topSectionSpotify-1lI0-P .spotifyButtonLogo-3uT57D {
+    left: 7.7px;
+    position: absolute;
+  }

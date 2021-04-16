@@ -68,6 +68,8 @@
 /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/rgbhome.css');*/
 /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/listtest.css');*/
 @import url('https://tropix126.github.io/BetterDiscordStuff/materialcons/base.css');
+@import url('https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifystatus.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
