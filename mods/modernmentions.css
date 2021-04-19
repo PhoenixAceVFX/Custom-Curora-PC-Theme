@@ -1,0 +1,11 @@
+.wrapper-3WhCwL {
+    color: white;
+    background-color: #2b2b2b;
+    padding-left: 6px;
+    padding-right: 6px;
+    transition: 0.5s;
+}
+.wrapper-3WhCwL:hover {
+    background-color: #0f0f0f;
+    transition: 0.5s;
+}
