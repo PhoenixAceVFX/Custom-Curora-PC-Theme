@@ -1,0 +1,25 @@
+.root-SR8cQa>.topSectionSpotify-1lI0-P{
+    background: linear-gradient(90deg, lightgreen, transparent);
+   }
+   .root-SR8cQa>.topSectionPlaying-1J5E4n {
+     background: linear-gradient(90deg, lightblue, transparent);
+   }
+   .root-SR8cQa>.topSectionXbox-3fWLjS {
+     background: linear-gradient(90deg, green, transparent);
+   }
+   .root-SR8cQa>.topSectionStreaming-1Tpf5X {
+     background: linear-gradient(90deg, purple, transparent);
+   }
+   /* user pop-out */
+   .userPopout-3XzG_A .headerSpotify-zpWxgT {
+     background: radial-gradient(at 100% 0%, lightgreen, transparent);
+   }
+   .userPopout-3XzG_A .headerPlaying-j0WQBV {
+     background: radial-gradient(at 100% 0%, lightblue, transparent);
+   }
+   .userPopout-3XzG_A .headerXbox-3G-4PF {
+     background: radial-gradient(at 100% 0%, green , transparent);
+   }
+   .userPopout-3XzG_A .headerStreaming-2FjmGz {
+    background: radial-gradient(at 100% 0%, purple, transparent);
+   }
