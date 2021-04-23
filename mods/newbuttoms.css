@@ -1,0 +1,9 @@
+.message-2qnXI6 .wrapper-2aW0bm .button-1ZiXG9 {
+    margin: 0 2px;
+    border-radius: 5px;
+    background-color: var(--background-tertiary);
+  }
+  
+  .message-2qnXI6 .wrapper-2aW0bm .button-1ZiXG9:hover {
+    background-color: var(--background-modifier-selected);
+  }
