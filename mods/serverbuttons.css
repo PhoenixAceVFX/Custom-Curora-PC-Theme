@@ -1,0 +1,18 @@
+#guild-header-popout {
+    width: fit-content;
+  }
+  #guild-header-popout .scroller-3BxosC, #guild-header-popout [role="group"] {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-orient: horizontal;
+  }
+  #guild-header-popout .scroller-3BxosC .item-1tOPte, #guild-header-popout [role="group"] .item-1tOPte {
+    width: 32px;
+  }
+  #guild-header-popout .scroller-3BxosC .iconContainer-2-XQPY, #guild-header-popout [role="group"] .iconContainer-2-XQPY {
+    margin: 0;
+    transform: translate(-1px,0);
+  }
+  #guild-header-popout .scroller-3BxosC .label-22pbtT, #guild-header-popout [role="group"] .label-22pbtT {
+    display: none;
+  }

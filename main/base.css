@@ -137,6 +137,7 @@ TABLE OF CONTENTS
   13.k. Date Viewer
 14. Roundness
 15. Overwrite Grey SVG's
+16. Server Logos
 */
 
 /*1. Background and Sizing*/
@@ -4873,3 +4874,145 @@ body::before {
   .role-3UN8jj.role-1P70N6 {
 	  background: var(--main-color);
   }
+
+  /*16. Server Logos*/
+
+  /* ===== Custom Server Logos ===== */
+
+/* Lighty Emojis */
+header[data-guild-id="831170964237713479"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="831170964237713479"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="831170964237713479"] > h1.name-1jkAdW:after {
+  content: url("https://kckarnige.github.io/improved-ui/res/lighty_server-wordmark.svg");
+}
+
+header[data-guild-id="831170964237713479"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+/* Bongo Was Here */
+header[data-guild-id="705908350218666117"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="705908350218666117"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="705908350218666117"] > h1.name-1jkAdW:after {
+  content: url("https://kckarnige.github.io/improved-ui/res/bongocord_server-wordmark.svg");
+}
+
+header[data-guild-id="705908350218666117"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+/* BetterDiscord */
+header[data-guild-id="86004744966914048"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="86004744966914048"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="86004744966914048"] > h1.name-1jkAdW:after {
+  content: url("https://kckarnige.github.io/improved-ui/res/betterdiscord_server-wordmark.svg");
+}
+
+header[data-guild-id="86004744966914048"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+/* BetterDiscord2 */
+header[data-guild-id="280806472928198656"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="280806472928198656"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="280806472928198656"] > h1.name-1jkAdW:after {
+  content: url("https://kckarnige.github.io/improved-ui/res/betterdiscord2_server-wordmark.svg");
+}
+
+header[data-guild-id="280806472928198656"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+/* Powercord */
+header[data-guild-id="538759280057122817"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="538759280057122817"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="538759280057122817"] > h1.name-1jkAdW:after {
+  content: url("https://kckarnige.github.io/improved-ui/res/powercord_server-wordmark.svg");
+}
+
+header[data-guild-id="538759280057122817"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="538759280057122817"] > .powercord-badge {
+  display: none;
+}
+
+  /* The Black Arms */
+header[data-guild-id="832050220345982977"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="832050220345982977"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="832050220345982977"] > h1.name-1jkAdW:after {
+  content: url("https://phoenixacevfx.github.io/Aroma-White/Server%20Watermark.svg");
+}
+
+header[data-guild-id="832050220345982977"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="832050220345982977"] > .powercord-badge {
+  display: none;
+}
+
+/* The Hazard */
+header[data-guild-id="797447807917096960"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="797447807917096960"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="797447807917096960"] > h1.name-1jkAdW:after {
+  content: url("https://phoenixacevfx.github.io/Aroma-White/Server%20Watermark.svg");
+}
+
+header[data-guild-id="797447807917096960"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="797447807917096960"] > .powercord-badge {
+  display: none;
+}
