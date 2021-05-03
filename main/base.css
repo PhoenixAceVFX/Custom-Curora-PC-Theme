@@ -4154,7 +4154,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Welcome to Aroma White\A A Custom theme maintained by PhoenixAceVFX#6501\A Now that I have found this I can log changes here!\A For now just don't mind the bugs and suchs\A I am fixing them as we speak\A I am not perfect with CSS so do bear with me\A Thanks for choosing to use my theme BTW\A Means alot to me that people use the work I maintain\A Even tho it isn't that good\A Hope you have a great day/night!";
+	  content: "Welcome to Aroma White\A A Custom theme maintained by PhoenixAceVFX#6501\A This is kinda new for me so there will be bugs\A For now just don't mind the bugs and such\A I am fixing them as we speak\A I am not perfect with CSS so do bear with me\A Thanks for choosing to use my theme BTW\A Means alot to me that people use the work I maintain\A Even tho it isn't that good\A Hope you have a great day/night!";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
@@ -4984,7 +4984,7 @@ header[data-guild-id="832050220345982977"] > h1.name-1jkAdW {
 }
 
 header[data-guild-id="832050220345982977"] > h1.name-1jkAdW:after {
-  content: url("https://phoenixacevfx.github.io/Aroma-White/Server%20Watermark.svg");
+  content: url("https://phoenixacevfx.github.io/Aroma-White/banners/TBA-Hazard.svg");
 }
 
 header[data-guild-id="832050220345982977"] > div.guildIconContainer-2FW_iA {
@@ -5006,7 +5006,7 @@ header[data-guild-id="797447807917096960"] > h1.name-1jkAdW {
 }
 
 header[data-guild-id="797447807917096960"] > h1.name-1jkAdW:after {
-  content: url("https://phoenixacevfx.github.io/Aroma-White/Server%20Watermark.svg");
+  content: url("https://phoenixacevfx.github.io/Aroma-White/banners/TBA-Hazard.svg");
 }
 
 header[data-guild-id="797447807917096960"] > div.guildIconContainer-2FW_iA {
@@ -5014,5 +5014,71 @@ header[data-guild-id="797447807917096960"] > div.guildIconContainer-2FW_iA {
 }
 
 header[data-guild-id="797447807917096960"] > .powercord-badge {
+  display: none;
+}
+
+/* Ministry */
+header[data-guild-id="657533624052219905"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="657533624052219905"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="657533624052219905"] > h1.name-1jkAdW:after {
+  content: url("https://phoenixacevfx.github.io/Aroma-White/banners/Ministry.svg");
+}
+
+header[data-guild-id="657533624052219905"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="657533624052219905"] > .powercord-badge {
+  display: none;
+}
+
+/* Ministry Boosters */
+header[data-guild-id="791063772491939840"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="791063772491939840"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="791063772491939840"] > h1.name-1jkAdW:after {
+  content: url("https://phoenixacevfx.github.io/Aroma-White/banners/Ministry.svg");
+}
+
+header[data-guild-id="791063772491939840"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="791063772491939840"] > .powercord-badge {
+  display: none;
+}
+
+/* Ministry Members */
+header[data-guild-id="750876703747997738"] > svg.button-1w5pas {
+  transform: translateY(5%);
+}
+
+header[data-guild-id="750876703747997738"] > h1.name-1jkAdW {
+  font-size: 0px;
+  transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="750876703747997738"] > h1.name-1jkAdW:after {
+  content: url("https://phoenixacevfx.github.io/Aroma-White/banners/Ministry.svg");
+}
+
+header[data-guild-id="750876703747997738"] > div.guildIconContainer-2FW_iA {
+  transform: translate(-6%, 6%)
+}
+
+header[data-guild-id="750876703747997738"] > .powercord-badge {
   display: none;
 }
