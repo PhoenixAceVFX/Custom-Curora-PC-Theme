@@ -4154,7 +4154,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "What's new in Aurora 2.7.2 \A- Removed an import link, no longer needed \A- Fixed import link for covers \A- The search area has been fixed \A- The context menu and other menus have been fixed \A- The new emoji picker has been theme  \A \A What's new in Aurora 2.7.1 \A- You're now able to click on spoilers \A \A What's new in Aurora 2.7 \A- Removed gray background between channels and chat \A- Fixed messages in chat \A- Removed emojis from toolbar on messages \A- Fixed scrollbars \A- Fixed profile covers \A- Fixed reactions \A- Fixed sidebar on settings \A- Fixed profile modals \A- Fixed headers \A- Fixed dropdown menu \A- Removed some seperators \A- Fixed other stuff :) \A- Updated login screen \A- Updated loading screen \A- Themed Server Boot screen \A- Themed new friends list \A- Categories are now green \A- Changed upload modal \A- Updated changloge, that you're reading ;) \A- Now being maintained by Korbs#0001.";
+	  content: "Welcome to Aroma White\A A Custom theme maintained by PhoenixAceVFX#6501\A Now that I have found this I can log changes here!\A For now just don't mind the bugs and suchs\A I am fixing them as we speak\A I am not perfect with CSS so do bear with me\A Thanks for choosing to use my theme BTW\A Means alot to me that people use the work I maintain\A Even tho it isn't that good\A Hope you have a great day/night!";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
