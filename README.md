@@ -1,3 +1,5 @@
+<img src="https://github.com/PhoenixAceVFX/Aroma-White/blob/main/banner.png" />  
+
 # Aroma White  
 
 This is a custom theme for PowerCord that I currently Maintain myself  
