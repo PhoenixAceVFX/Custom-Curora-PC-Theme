@@ -1,4 +1,4 @@
-<img src="https://github.com/PhoenixAceVFX/Aroma-White/blob/main/banner.png" />  
+<img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/banner.png" />  
 
 # Aroma White  
 
@@ -15,4 +15,4 @@ I have made Aroma.theme.css so that BetterDiscord users can use this theme as it
 Do enjoy the theme I am maintaining  
 
 
-<img src="https://github.com/PhoenixAceVFX/Aroma-White/blob/main/BDx3p2gh.png" />
+<img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/BDx3p2gh.png" />
