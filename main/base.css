@@ -265,7 +265,7 @@ body::before {
 	  padding-top:0px !important;
   }
   .wordmark-2iDDfm:after {
-	  content: 'Aroma White';
+	  content: 'Vanessa Mira';
 	  position: absolute !important;
 	  left: 5px;
 	  width: 100vw;
@@ -275,9 +275,6 @@ body::before {
 	  font-weight: bold;
 	  margin-top: 6px;
   }
-  [data-author-id="461440763042201620"] .markup-2BOw-j{
-    background-color: #ff00f2 !important;
-}
   .winButtonClose-1HsbF-:active {
 	  box-shadow:inset 0 0 1000px rgba(0,0,0,0.35);
   }
@@ -4330,10 +4327,10 @@ body::before {
   --main-color: #00ffb3;
   text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   border-radius: 15px;
-  content: "Aroma White";
+  content: "Vanessa Mira";
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2.header-23xsNx {
-    --tag-text: 'PAFF';
+    --tag-text: 'OPCI';
     --tag-bg1: #00ffb3;
 }
 .avatar-1BDn8e[src*="461440763042201620"] + h2 > span.timestamp-3ZCmNB::before {
