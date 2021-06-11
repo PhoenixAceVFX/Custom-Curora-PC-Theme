@@ -162,7 +162,10 @@ body::before {
   .layer-3QrUeG,
   .layers-3iHuyZ,
   .container-2lgZY8 {
-	  background: transparent !important;
+	  background: transparent !important; 
+  }
+  .none-2Eo-qx {
+    background: transparent !important;
   }
   /*Makes aurora compatible with monsters addons*/
   .theme-dark,
