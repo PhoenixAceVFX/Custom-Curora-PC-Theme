@@ -106,6 +106,7 @@
 /*Backdrop Variables*/	
 	--backdrop: url(https://i.imgur.com/xcjXx3E.jpg); /*Normal Backdrop*/	
 	--backdropblurred: url(https://i.imgur.com/ExNrzGV.jpg); /*Darker/Blurred Version of Backdrop*/	
+	--GMStore: url(https://i.imgur.com/L3IbDoi.jpg); /*GooseMod Store*/
 	--backdrop-darkness:transparent; /*Brightness of var(--backdrop);*/	
 /*Roundness Variables*/	
 	--chat-avatar-roundness:5px !important; /*Roundness of chat avatars*/	

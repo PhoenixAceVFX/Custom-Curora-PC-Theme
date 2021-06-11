@@ -140,6 +140,7 @@ TABLE OF CONTENTS
 14. Roundness
 15. Overwrite Grey SVG's
 16. Server Logos
+17. GooseMod Stuff
 */
 
 /*1. Background and Sizing*/
@@ -5091,3 +5092,9 @@ header[data-guild-id="750876703747997738"] > div.guildIconContainer-2FW_iA {
 header[data-guild-id="750876703747997738"] > .powercord-badge {
   display: none;
 }
+/*GooseMod Stuff*/
+
+/* Store Backdrop*/
+#gm-settings-inject {
+  background-image: var(--GMStore);
+  }
