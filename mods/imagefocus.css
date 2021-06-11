@@ -1,0 +1,10 @@
+/*/// Content Focus Backdrop Background Blur ///*/
+#app-mount div > .backdrop-1wrmKB, .layer-2KE1M9 {
+    backdrop-filter: blur(18px); /* Customizable Value (the higher the pixel count, the more blur there is) */
+    transition: opacity .5s;
+}
+
+.backdrop-1wrmKB.withLayer-RoELSG {
+    opacity: 0.5 !important;
+    transition: opacity .5s;
+}

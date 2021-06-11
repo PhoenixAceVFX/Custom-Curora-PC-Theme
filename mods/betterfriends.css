@@ -1,0 +1,51 @@
+/* BetterFreinds V1 */
+:root{
+    --friendblockheight: 80px;
+    --csbg: url('https://imgur.com/8twCdCN.jpg');}
+    /* Online count */
+    .peopleList-3c4jOR .title-30qZAO { 
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+    height: var(--friendblockheight);
+    border-radius: 8px;
+    background-color: var(--background-tertiary);}
+    [id="ONLINE-tab"] .peopleList-3c4jOR .title-30qZAO {
+    padding-left: 30px;
+    color: #43B581;
+    height: var(--friendblockheight)}
+    [id="ONLINE-tab"] .peopleList-3c4jOR .title-30qZAO:before { 
+    content: "";
+    position: absolute;
+    margin-left: -32px;
+    margin-top: 13px;
+    width: 14px;
+    height: 14px;
+    background-color: #43B581;
+    border-radius: 50%;}
+    /* Background */
+    .avatar-3W3CeO.wrapper-3t9DeA:before {
+    content: '';
+    position: absolute;
+    top: -20px; 
+    left: -25px;
+    min-width: 585px;
+    height: var(--friendblockheight) !important;
+    z-index: -1;
+    opacity: 0.3;
+    background: var(--csbg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;}
+    .userInfo-2zN2z8 {
+    background-color: var(--background-tertiary);
+    border-radius: 8px;
+    padding: 8px;
+    margin-left: 6px;}
+    /* Buttons */
+    .actionButton-uPB8Fs, .actionButton-uPB8Fs.highlight-Lf97TE {border-radius: 8px;}
+    /* Fuck Borders */
+    .peopleListItem-2nzedh {
+    border-top: 0px solid var(--background-modifier-accent);}
+    /* tajmahal? / Bruh / Why is this here? */
+    .userInfo-2zN2z8, .actions-1SQwjn {position: relative; z-index: 1;}

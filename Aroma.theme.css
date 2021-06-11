@@ -87,6 +87,15 @@
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/newbuttons.css');
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifybar.css');
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/serverbuttons.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/audioname.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/betterfriends.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/bannerrgb.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/verifiedbots.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/banners.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/window.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/imagefocus.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/chatbarcolors.css');
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/clearchatbar.css');
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	

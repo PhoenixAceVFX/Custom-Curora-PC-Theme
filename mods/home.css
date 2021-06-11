@@ -1,19 +1,27 @@
-.tutorialContainer-2sGCg9 {
-    position: fixed;
-    z-index: 1;
-    background: linear-gradient(var(--background-tertiary) 100%, transparent);
+/*variables: change your desired accent colour here*/
+:root { 
+  --accent: #00fff2;
 }
-.guilds-1SWlCJ .scroller-1Bvpku { contain: none !important; padding-top: 0;}
-.guilds-1SWlCJ .scroller-1Bvpku > [aria-label], .guilds-1SWlCJ .scroller-1Bvpku > [style]:nth-child(2) { margin-top: 55px;}
-.guilds-1SWlCJ .scroller-1Bvpku > [style] ~ [aria-label] { margin-top: 0px;}
-.wrapper-3NnKdC > ul > .scroller-1Bvpku > div[aria-label="Servers"] {
-    margin-top: 60px;
-  }
-  
-  .tutorialContainer-2sGCg9 {
-    box-shadow: 0px 5px 5px var(--background-tertiary);
-  }
-  
-  .container-3w7J-x {
-    z-index: 1;
-  }
+/* fancy home icon part */
+.childWrapper-anI2G9 {
+    --prop: .35s ease-in-out;  
+    color: #000000;
+    background-color: var(--accent);
+    transition: color var(--prop),
+                background-color var(--prop);
+}
+.childWrapper-anI2G9:hover,
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+    color: var(--accent);
+    background-color: transparent;
+}
+/* spin da home icon */
+  @keyframes spin-logo {
+    0%   { transform: rotate(0deg); }
+    50%  { color: var(--accent); }
+    100% { transform: rotate(360deg); }
+}
+.childWrapper-anI2G9:hover > .homeIcon-FuNwkv,
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 > .homeIcon-FuNwkv {
+    animation: spin-logo 10s linear infinite; /*you can change speed of spin here*/
+}

@@ -24,3 +24,13 @@
     left: 7.7px;
     position: absolute;
   }
+  .noUserDrag-5Mb43F {
+    width:50px;
+    height:50px;
+    transition: all 1s;
+    }
+    .noUserDrag-5Mb43F:hover {
+    width:100px;
+    height:100px;
+    transition: all 1s;
+    }

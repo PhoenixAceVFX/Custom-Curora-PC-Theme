@@ -7,3 +7,20 @@
 .background-1QDuV2 {
     border-radius: 20px;
 } /* Changes the border raidius of the user card*/
+.message-2qnXI6 .header-23xsNx span:last-child {
+    user-select: text;
+  }
+  /* why do usernames have a scrollbar now??? whatever, fix that */
+span.headerTagUsername-1rEZ3Z {
+    overflow-y:hidden!important;
+  }
+  /* inb4 this is some stupid obscure shit with my plugins/css who fucking cares
+  i'm fixing it anyway and releasing the snippet */
+  /* also fix the width because for some reason this is now an issue */
+  .userPopout-3XzG_A {
+    width:500px!important;
+  }
+  /* center premium banners or do something with them to look less stupid */
+  .headerNormal-1l1Znk .profileBannerPremium-35utuo {
+    margin:auto;
+  }
