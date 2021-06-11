@@ -2248,6 +2248,15 @@ body::before {
   }
   
   /*6.d. User Popouts*/
+  .avatar-37jOim {
+    border: 6px solid #18191c00;
+    background-color: #18191c00;
+}
+
+.avatar-AvHqJA {
+    border: 8px solid #18191c00;
+    background-color: #18191c00;
+}
   .theme-dark .footer-1fjuF6 {
 	  border: none;
   }
