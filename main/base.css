@@ -4174,7 +4174,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Welcome to Aroma White\A A Custom theme maintained by PhoenixAceVFX#6501\A This is kinda new for me so there will be bugs\A For now just don't mind the bugs and such\A I am fixing them as we speak\A I am not perfect with CSS so do bear with me\A Thanks for choosing to use my theme BTW\A Means alot to me that people use the work I maintain\A Even tho it isn't that good\A Hope you have a great day/night!";
+	  content: "Latest Changes\nAdded a few new mods\nImage Util Fixes\nNew Emoji Tray\nCompact Home\n Fixed a few things too\nBetterfriends fixed\nRemoved unused code\nChanged Verified Bot tag to Pink";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
