@@ -96,6 +96,9 @@
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/imagefocus.css');/*On by Default*/
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/chatbarcolors.css');/*On by Default*/
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/clearchatbar.css');/*On by Default*/
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/compacthome.css');/*On by Default*/
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/emoji.css');/*On by Default*/
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/imgutilfix.css');/*On by Default*/
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	

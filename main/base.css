@@ -141,6 +141,7 @@ TABLE OF CONTENTS
 15. Overwrite Grey SVG's
 16. Server Logos
 17. GooseMod Stuff
+18. Bot Stuff
 */
 
 /*1. Background and Sizing*/
@@ -5107,3 +5108,10 @@ header[data-guild-id="750876703747997738"] > .powercord-badge {
 #gm-settings-inject {
   background-image: url(https://i.imgur.com/L3IbDoi.jpg);
   }
+
+  /*Bot Stuff*/
+
+  /*Bot Tag Color*/
+  .botTagVerified-1klIIt {
+    background-color: #ff00dd
+ }

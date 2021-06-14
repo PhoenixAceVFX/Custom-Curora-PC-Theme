@@ -1,0 +1,6 @@
+.privateChannels-1nO12o .content-3YMskv { --columns: 4; display: grid; grid-template-columns: repeat(var(--columns), 1fr); grid-auto-rows: min-content; }
+.privateChannels-1nO12o .content-3YMskv > * { grid-column: 1/-1; }
+.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) { grid-column: auto; }
+.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md .content-3QAtGj { display: none; }
+.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md .avatar-3uk_u9 { width: 100%; margin: 0 !important; }
+.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md .children-gzQq2t { margin: 0 !important; }
