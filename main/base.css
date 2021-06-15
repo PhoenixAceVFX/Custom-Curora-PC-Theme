@@ -4174,7 +4174,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Latest Changes\nAdded a few new mods\nImage Util Fixes\nNew Emoji Tray\nCompact Home\n Fixed a few things too\nBetterfriends fixed\nRemoved unused code\nChanged Verified Bot tag to Pink";
+	  content: "Latest Changes\nAdded a few new mods\nImage Util Fixes\nNew Emoji Tray\nCompact Home\nFixed a few things too\nBetterfriends fixed\nRemoved unused code\nChanged Verified Bot tag to Pink\nUpdated Settings page";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
@@ -4195,6 +4195,80 @@ body::before {
 	  top: 110px;
 	  animation: 1s fadeFromRight ease;
   }
+  /* Misc Header */
+.info-1VyQPT:after {
+  background: transparent;
+  content: 'Misc Settings';
+  position: absolute;
+  font-size: 12px;
+  font-weight: 800;
+  top: 38px;
+  color: var(--channels-default);
+  text-transform: uppercase;
+}
+
+/* Reorder */
+.sidebar-CFHs9e [data-item-id="HypesquadOnline"] {order: -4;}
+.sidebar-CFHs9e [data-item-id="DeveloperOptions"] {order: -3;}
+.sidebar-CFHs9e [data-item-id="Experiments"] {order: -2;}
+.sidebar-CFHs9e [data-item-id="changelog"] {order: -1;}
+
+/* Spacing */
+.side-8zPYf6 .separator-gCa7yv {display: none !important;}
+.sidebar-CFHs9e [data-item-id="changelog"] {margin-bottom: 16px;}
+.sidebar-CFHs9e [data-item-id="Connections"] {margin-bottom: 16px;}
+.sidebar-CFHs9e [data-item-id="Billing"] {margin-bottom: 16px;}
+.sidebar-CFHs9e [data-item-id="Advanced"] {margin-bottom: 16px;}
+.sidebar-CFHs9e [data-item-id="Overlay"] {margin-bottom: 16px;}
+
+.sidebar-CFHs9e [data-item-id="pc-updater"] {
+  margin-bottom: 50px !important;
+}
+
+/* Plugin Header*/
+.info-1VyQPT:before {
+  background: transparent;
+  content: 'Plugins';
+  position: absolute;
+  font-size: 12px;
+  font-weight: 800;
+  width: 100%;
+  top: 1240px;
+  color: var(--channels-default);
+  text-transform: uppercase;
+}
+
+/* Spacing */
+.side-8zPYf6 [data-item-id="logout"] {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+/* Info */
+.info-1VyQPT .size12-3cLvbJ {
+  user-select: none;
+}
+
+/* Info Header*/
+.info-1VyQPT .size12-3cLvbJ:first-child::before {
+  content: 'Info \a';
+  text-transform: none;
+  white-space: pre;
+  user-select: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--channels-default);
+  font-weight: 800;
+  position: relative;
+  bottom: 8px;
+}
+
+/* Info Header*/
+.socialLinks-3jqNFy {
+  margin-top: 10px;
+  order: 1;
+}
   /*============== END OF SECTION ============== */
   
   /*10. Tag Animations*/
