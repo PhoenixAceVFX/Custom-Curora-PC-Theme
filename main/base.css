@@ -4174,7 +4174,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Latest Changes\nAdded a few new mods\nImage Util Fixes\nNew Emoji Tray\nCompact Home\nFixed a few things too\nBetterfriends fixed\nRemoved unused code\nChanged Verified Bot tag to Pink\nUpdated Settings page";
+	  content: "Latest Changes\nAdded a few new mods\nImage Util Fixes\nNew Emoji Tray\nCompact Home\nCleaner Chat Icons\nFixed a few things too\nBetterfriends fixed\nRemoved unused code\nChanged Verified Bot tag to Pink\nUpdated Settings page";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
