@@ -4423,6 +4423,20 @@ margin-bottom: 20px;
   border-radius: 15px;
   content: "Vanessa Mira";
 }
+div[data-user-id^="461440763042201620"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy{
+  background-image: 
+  linear-gradient(to right, #FF6663,#FEB144,#FDFD97,#9EE09E,#9EC1CF,#A05BFD, #CC99C9); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+  animation: move 2000s linear infinite;
+}
+
+@keyframes move {
+    to {
+        background-position: 26000px;
+    }
+}
+}
 .avatar-1BDn8e[src*="461440763042201620"] + h2.header-23xsNx {
     --tag-text: 'OPCI';
     --tag-bg1: #00ffb3;
