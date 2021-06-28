@@ -10,5 +10,6 @@ You can toggle individual aftermods in the Aroma.theme.css
 >PowerCord - git clone https://github.com/PhoenixAceVFX/Aroma-White  
 >BetterDiscord - Place Aroma.theme.css in Themes Folder!  
 >GooseMod - Get it in the theme store!  
+>Stylus - Click "Aroma.user.css"
 
 <img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/BDx3p2gh.png" />

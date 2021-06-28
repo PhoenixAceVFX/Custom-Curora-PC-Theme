@@ -1,0 +1,135 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name           Aroma White
+    @namespace      PhoenixAceVFX
+    @author         PhoenixAceVFX
+    @description    A mod of aurora I personally maintain
+    @version		1.4
+    ==/UserStyle== */
+    /**
+     * @name Aroma White
+     * @author PhoenixAceVFX#6501
+     * @version 1.4
+     * @description A mod of Aurora I personally maintain
+     * @source https://github.com/PhoenixAceVFX/Aroma-White
+    */
+    
+    /*Main Theme*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/main/base.css');/*NEEDED FOR THEME TO FUNCTION!!!*/
+    /*After Mods*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/aftermods.css');*//*Off By Default*//*DEPRICATED*/
+    /*Individual Mods*/
+    @import url('https;//phoenixacevfx.github.io/Aroma-White/mods/serverlist.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/attachtoright.css');
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/betterspotifyplayer.css');*//*Off By Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/bigavi.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/channelcolors.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/chatbox.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/codeblocks.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/customusernames.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/discordupdate.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/enlargechannelnames.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/hoverchatbuttons.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/hyperlinkhover.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/jumppill.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/largefilemodal.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/nametags.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/newrole.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/profilemod.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/rainbowmentions.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/rainbowtext.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/roundcontextmodals.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/roundreactions.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/searchmodal.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/spoilers.css');/*On by Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifycontrols.css');*//*Off By Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/startprompt.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/toolbarsearch.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/vcontrol.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/clyde.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifyspin.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/rgbserver.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/info.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/rgbcontrols.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/camfix.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/scrollbar.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/uielements.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/serverlisthover.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/colorsvg.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/descdrag.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/glowhash.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/betterbuttons.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/betterspotifyplayerv2.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/unreadpill.css');/*On by Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/oldmentions.css');*//*Off By Default*/
+    @import url('https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/Discolored.css');/*On by Default*/
+    @import url('https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/app/import.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/switchestobuttons.css');
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/servermembersdrawer.css');*//*Off By Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/channeldrawers.css');*//*Off By Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/loud.css');/*On by Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/messagebubbles.css');*//*Off By Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/voicecontrols.css');*//*Off By Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/oldchanneldrawer.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/home.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/bannerlock.css');/*On by Default*/
+    @import url('https://raw.githack.com/leeprky/FullyThemedDiscord/main/source.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/megaemoji.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/homecolor.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/statussize.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/statusbar.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/mutetext.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/newheaders.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/friendgrid.css');/*On by Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/rgbhome.css');*//*Off By Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/listtest.css');*//*Off By Default*/
+    @import url('https://tropix126.github.io/BetterDiscordStuff/materialcons/base.css');/*On by Default*/
+    @import url('https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifystatus.css');/*On by Default*/
+    @import url('https://raw.githubusercontent.com/Controlfreak707/Channel-Icons/main/channelicons.theme.css');/*On by Default*/
+    @import url('https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.css');
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/modals.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/activityscroll.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/modernmentions.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/statusmodals.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/newbuttons.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/spotifybar.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/serverbuttons.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/audioname.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/betterfriends.css');/*On by Default*/
+    /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/bannerrgb.css');*//*Off By Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/verifiedbots.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/banners.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/window.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/imagefocus.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/chatbarcolors.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/clearchatbar.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/compacthome.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/emoji.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/imgutilfix.css');/*On by Default*/
+    @import url('https://phoenixacevfx.github.io/Aroma-White/mods/icos.css');/*On by Default*/
+    :root {	
+    /*Color Variables*/	
+        --main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
+        --gradient1: #3ecc9c; /*First Gradient Color*/	
+        --gradient2: #185a9d; /*Second Gradient Color*/	
+        --hover-color: rgb(67, 206, 162); /*Secondary Accent of the Theme*/	
+        --main-color-faded: rgba(67, 206, 162, 0.2); /*Faded Main Color*/	
+    /*Backdrop Variables*/	
+        --backdrop: url(https://i.imgur.com/xcjXx3E.jpg); /*Normal Backdrop*/	
+        --backdropblurred: url(https://i.imgur.com/ExNrzGV.jpg); /*Darker/Blurred Version of Backdrop*/	
+        --backdrop-darkness:transparent; /*Brightness of var(--backdrop);*/	
+    /*Roundness Variables*/	
+        --chat-avatar-roundness:5px !important; /*Roundness of chat avatars*/	
+        --media-roundness:50px !important; /*General Roundness*/	
+        --guild-hovered-roundness:12px !important; /*Roundness of servers on hover*/	
+    /*Status Variables*/	
+        --online: #43b581 !important; /*Color When someone is Online*/	
+        --idle: #faa61a !important; /*Color When someone is Idle*/	
+        --dnd: #f04747 !important; /*Color When someone is in Do Not Disturb*/	
+        --offline: #636b75 !important; /*Color When someone is offline*/	
+        --invisible: #747f8d !important; /*Color When someone is Invisible*/	
+        --streaming: #643da7 !important; /*Color When someone is Streaming*/	
+    }
+    
+    }
