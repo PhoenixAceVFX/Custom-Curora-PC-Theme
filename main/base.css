@@ -4174,7 +4174,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Latest Changes\nUpdated to new discord update (No longer forcing custom banners)\nNow supporting STYLUS!";
+	  content: "Latest Changes\nUpdated to new discord update\nNo longer forcing custom banners\nNow supporting STYLUS!";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
