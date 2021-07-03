@@ -13,4 +13,4 @@ You can toggle individual aftermods in the Aroma.theme.css
 >Stylus - [Click Here to install](https://github.com/PhoenixAceVFX/Aroma-White/raw/main/Aroma.user.css)  
 >Vizality - Should be the same as other Vizality themes  
 
-<img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/BDx3p2gh.png" />
+<img src="Preview.png" />
