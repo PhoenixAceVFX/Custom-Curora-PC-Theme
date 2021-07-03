@@ -1,4 +1,4 @@
-<center>
+<div align='center'>
 <img src="banner.png" />  
 
 # AROMA WHITE DISCORD THEME  
