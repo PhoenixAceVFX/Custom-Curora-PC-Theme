@@ -1,8 +1,8 @@
-<img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/banner.png" />  
+<img src="banner.png" />  
 
 # Aroma White  
 # NOW COMPATABLE WITH ALL POPULAR MODS
-This is a custom theme for PowerCord that I currently Maintain myself  
+This is a custom theme for Discord that I currently Maintain myself  
 As of the many updates this is now SUPPORTING Several Clients  
 I do not claim credit for any of the code as this is a mash of many snips from the PowerCord Discord  
 You can toggle individual aftermods in the Aroma.theme.css  
@@ -10,6 +10,7 @@ You can toggle individual aftermods in the Aroma.theme.css
 >PowerCord - git clone https://github.com/PhoenixAceVFX/Aroma-White  
 >BetterDiscord - Place Aroma.theme.css in Themes Folder!  
 >GooseMod - Get it in the theme store!  
->Stylus - [Click Here to install](https://github.com/PhoenixAceVFX/Aroma-White/raw/main/Aroma.user.css)
+>Stylus - [Click Here to install](https://github.com/PhoenixAceVFX/Aroma-White/raw/main/Aroma.user.css)  
+>Vizality - Should be the same as other Vizality themes  
 
 <img src="https://github.com/PhoenixAceVFX/Aroma-White/raw/main/BDx3p2gh.png" />

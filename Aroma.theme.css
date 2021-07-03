@@ -1,7 +1,7 @@
 /**
  * @name Aroma White
  * @author PhoenixAceVFX#6501
- * @version 1.4
+ * @version 1.4.1
  * @description A mod of Aurora I personally maintain
  * @source https://github.com/PhoenixAceVFX/Aroma-White
 */
@@ -100,6 +100,8 @@
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/emoji.css');/*On by Default*/
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/imgutilfix.css');/*On by Default*/
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/icos.css');/*On by Default*/
+@import url('https://phoenixacevfx.github.io/Aroma-White/mods/hideblocked.css');/*On by Default*/
+/*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/prideful.css');*//*Off by Default*/
 :root {	
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	

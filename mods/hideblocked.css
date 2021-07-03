@@ -1,0 +1,9 @@
+div[class^="container-"]{ min-height: 0; }
+div[class^="blockedSystemMessage-"], div[class*="blockedSystemMessage-"] { 
+    
+    display: none; 
+}
+
+div[class^="groupStart-"], div[class^="da-groupStart"] {
+    display: none;
+}

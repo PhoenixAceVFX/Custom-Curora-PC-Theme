@@ -142,6 +142,7 @@ TABLE OF CONTENTS
 16. Server Logos
 17. GooseMod Stuff
 18. Bot Stuff
+19. Web Edits
 */
 
 /*1. Background and Sizing*/
@@ -531,6 +532,10 @@ body::before {
   }
   
   /*3.d. Chat Input Area*/
+  /* Hides Textbox when you don't have permission to talk in the channel */
+.channelTextAreaDisabled-8rmlrp > div {
+  display: none
+}
   form.form-2fGMdU {
 	  padding: 0px 10px 10px 10px;
   }
@@ -719,6 +724,65 @@ body::before {
   }
   
   /*3.j. Linked Channels and Mentions*/
+  [href*="youtu.be"],
+[href*="youtube.com"] {
+    color: #C4302B !important;
+    font-weight: 700;
+}
+
+[href*="twitch.tv"] {
+    color: #B700FF !important;
+    font-weight: 700;
+}
+
+[href*="spotify.com"] {
+    color:rgb(19, 185, 4) !important; 
+    font-weight: 700;
+}
+
+[href*="discord.com/channels/"] {
+    color: #5865F2 !important;
+}
+
+[href*="discord.com/channels/"]::before {
+    content:'Jump to Message : ';
+    font-size:16px;
+    font-weight:700;
+    color: #5865F2;
+}
+
+[href*="reddit.com"] {
+    color: #FF4500 !important; 
+    font-weight: 700;
+}
+
+[href*="instagram.com/"]{
+    background: -webkit-linear-gradient(80deg, rgb(255, 238, 0), rgb(255, 157, 11), #B700FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+} 
+
+[href*="twitter.com/"]{
+    color: #00ACEE !important;
+    font-weight: 700;
+}
+
+[href*="discord.com/"],
+[href*="discord.gg/"] {
+    color:#5865F2 !important;
+    font-weight: 700;
+}
+
+[href*="github.com"] {
+    color: #00F0A8 !important;
+    font-weight: 700;
+}
+
+[href*="vizality.com"]{
+    color: #FF006A !important;
+    font-weight: 700;
+}
   .mentioned-xhSam7:before {
 	  background-color: rgba(250, 166, 26, 0.25);
   }
@@ -4174,7 +4238,7 @@ body::before {
   
   /*9.u Changelog*/
   .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]:hover::before {
-	  content: "Latest Changes\nUpdated to new discord update\nNo longer forcing custom banners\nNow supporting STYLUS!";
+	  content: "Latest Changes\nUpdated to new discord update\nNo longer forcing custom banners\nNow supporting STYLUS!\nVizality Support!\nNew Modules\nHiding blocked users\nPrideful Mod (off by default)\nMoving to SCSS soon!";
 	  display: block;
 	  line-height: 22px;
 	  font-size: 18px;
@@ -5203,3 +5267,18 @@ header[data-guild-id="750876703747997738"] > .powercord-badge {
   .botTagVerified-1klIIt {
     background-color: #ff00dd
  }
+ /*19. Web Edits*/
+ /* Theme-based download pop-up */
+.mobileContainer-1x7CLQ,
+.desktopContainer-spQem0 {
+    background-color: var(--backdropblurred);
+}
+.mobileContainer-1x7CLQ .header-2lqoyd,
+.desktopHeader-1LNLub {
+  color: var(--main-color);
+}
+
+.mobileContainer-1x7CLQ .subheader-AECc1B,
+.desktopSubHeader-3UUZGI {
+  color: var(--gradient1);
+}

@@ -1,0 +1,11 @@
+  
+{
+    "icon": "vizalityassets/aroma.png",
+    "name": "Aroma White",
+    "description": "My personal maintenance of Aurora with modular support",
+    "version": "1.4.1",
+    "author": "PhoenixAceVFX#6501",
+    "theme": "Aroma.theme.css",
+    "consent": "false",
+    "license": "MIT"
+}

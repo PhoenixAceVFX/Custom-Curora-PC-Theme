@@ -1,0 +1,40 @@
+/* Rainbow Mentions */
+@keyframes rainbow_animation {
+    0%,100% {
+    background-position: 0 0;}
+    50% {
+    background-position: 100% 0;}}
+  .markup-2BOw-j .messageContent-2qWWxC {
+    background-color: rgba(0, 0, 0, 0.1) !important; 
+    background-image: linear-gradient(to right, #ff000050, #FF8C0030, #FFD70030, #00FF0030, #00BFFF30 , #BA55D330, #ff000050) !important;
+    background-size: 400% 100% !important;
+    animation: rainbow_animation 10s ease-in-out infinite !important;
+  }
+  /* Rainbow Channels */
+  .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU:after{    
+    background: none;
+    background-image: linear-gradient(to right, #ff000050, #FF8C0030, #FFD70030, #00FF0030, #00BFFF30 , #BA55D330, #ff000050) !important;
+    background-size: 400% 100% !important;
+    animation: rainbow_animation 5s ease-in-out infinite !important;
+  }
+  /* Rainbow Text */   
+  .markup-2BOw-j {
+    animation: rainbow_animation linear 10s infinite;
+    } 
+    
+    @keyframes rainbow_animation {
+      0%   {color: red;}
+      25%  {color:blue;}
+      50%  {color: #f8d50bd7;}
+      75%  {color: #00ff0083;}
+      100% {color: red;}
+    }
+    /*pride Banner*/
+.banner-2QYc2d {
+    background: url('https://i.imgur.com/D2fsL3a.png');
+  }
+  /* Server selected pill background */
+.pill-1z4sAY.wrapper-sa6paO .item-2hkk8m { /* Pride Month Look */
+    background: url('https://i.imgur.com/SaGlnDV.png');
+    background-size: 40px;
+  }
