@@ -48,5 +48,6 @@ Module Selection Hopefully coming soon to GooseMod
 <img src="previews/Server Settings.png"/>  
 <img src="previews/Settings.png"/>  
 <img src="previews/Bot Profile.png"/>  
+<img src="previews/Profile.png"/>  
 <img src="previews/Goosemod Theme Store.png"/>  
 <img src="previews/Goosemod Plugin Store.png"/>  
