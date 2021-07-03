@@ -42,4 +42,11 @@ Module Selection Hopefully coming soon to GooseMod
 }
 ```
 # PREVIEW  
-<img src="Preview.png" />
+<img src="previews/Preview.png"/>  
+<img src="previews/Friends.png"/>  
+<img src="previews/Search.png"/>  
+<img src="previews/Server Settings.png"/>  
+<img src="previews/Settings.png"/>  
+<img src="previews/Bot Profile.png"/>  
+<img src="previews/Goosemod Theme Store.png"/>  
+<img src="previews/Goosemod Plugin Store.png"/>  
