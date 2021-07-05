@@ -3217,6 +3217,17 @@ body::before {
   without prior permission from me or any
   other contributors to USRBG.
   */
+  .accountProfileCard-1XCH88 .field-1HUseB:last-child .size16-1P40sf {
+    --no-phone-number-text: 'Nothing to see here!';
+    color: transparent;
+  }
+  .accountProfileCard-1XCH88 .field-1HUseB:last-child .size16-1P40sf::before {
+    color: var(--header-primary);
+    content: var(--no-phone-number-text, '************');
+  }
+  .accountProfileCard-1XCH88 .field-1HUseB:last-child .size16-1P40sf > .lookLink-9FtZy- {
+    transform: translateX(-88px);
+  }
   /* Custom Profile Backgrounds */
   .header-QKLPzZ .wrapper-3t9DeA::before {
 	  content: '';
@@ -4487,12 +4498,17 @@ margin-bottom: 20px;
   border-radius: 15px;
   content: "Vanessa Mira";
 }
-div[data-user-id^="461440763042201620"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy{
-  background-image: 
-  linear-gradient(to right, #FF6663,#FEB144,#FDFD97,#9EE09E,#9EC1CF,#A05BFD, #CC99C9); 
+div[data-author-id="461440763042201620"] .username-1A8OIy, .desaturate-user-colors + .desaturateUserColors-1gar-1{
+  background-image: linear-gradient(to right, #d40606,#ee9c00,#e3ff00,#06bf00,#9EC1CF,#001a98); 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;  
   animation: move 2000s linear infinite;
+}
+@keyframes move {
+    to {
+        background-position: 26000px;
+    }
+}
 }
 
 @keyframes move {
