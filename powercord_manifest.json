@@ -1,8 +1,9 @@
 {
     "name": "Aroma White",
     "description": "A Custom PowerCord theme based in Aurora",
-    "version": "1.4.1",
+    "version": "1.5",
     "author": "PhoenixAceVFX#6501 (Tropical#0001)",
     "license": "MIT",
-    "theme": "Aroma.theme.css"
+    "theme": "Aroma.theme.scss",
+    "splashTheme": "Splash.scss"
   }
