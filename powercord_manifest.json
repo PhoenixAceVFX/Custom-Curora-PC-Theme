@@ -4,6 +4,6 @@
     "version": "1.5",
     "author": "PhoenixAceVFX#6501 (Tropical#0001)",
     "license": "MIT",
-    "theme": "Aroma.theme.scss",
+    "theme": "Aroma.scss",
     "splashTheme": "Splash.scss"
   }

@@ -5,7 +5,7 @@
     "description": "My personal maintenance of Aurora with modular support",
     "version": "1.5",
     "author": "PhoenixAceVFX#6501",
-    "theme": "Aroma.theme.scss",
+    "theme": "Aroma.scss",
     "splashTheme": "Splash.scss",
     "consent": "false",
     "license": "MIT"

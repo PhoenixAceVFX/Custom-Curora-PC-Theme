@@ -1,0 +1,243 @@
+/**
+ * @name Aroma White
+ * @author PhoenixAceVFX#6501
+ * @version 1.5
+ * @description A mod of Aurora I personally maintain
+ * @source https://github.com/PhoenixAceVFX/Aroma-White
+*/
+
+/*Main Theme*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/main/base.scss";
+/*NEEDED FOR THEME TO FUNCTION!!!*/
+/*After Mods*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/aftermods.scss');*/
+/*Off By Default*/
+/*DEPRICATED*/
+/*Individual Mods*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/serverlist.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/attachtoright.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/betterspotifyplayer.scss');*/
+/*Off By Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/bigavi.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/channelcolors.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/chatbox.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/codeblocks.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/customusernames.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/discordupdate.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/enlargechannelnames.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/hoverchatbuttons.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/hyperlinkhover.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/jumppill.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/largefilemodal.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/nametags.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/newrole.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/profilemod.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/rainbowmentions.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/rainbowtext.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/roundcontextmodals.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/roundreactions.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/searchmodal.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/spoilers.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/spotifycontrols.scss');*/
+/*Off By Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/startprompt.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/toolbarsearch.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/vcontrol.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/clyde.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/spotifyspin.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/rgbserver.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/info.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/rgbcontrols.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/camfix.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/scrollbar.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/uielements.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/serverlisthover.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/colorsvg.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/descdrag.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/glowhash.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/betterbuttons.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/betterspotifyplayerv2.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/unreadpill.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/oldmentions.scss');*/
+/*Off By Default*/
+@import "https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/Discolored.scss";
+/*On by Default*/
+@import "https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/app/import.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/switchestobuttons.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/servermembersdrawer.scss');*/
+/*Off By Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/channeldrawers.scss');*/
+/*Off By Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/loud.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/messagebubbles.scss');*/
+/*Off By Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/voicecontrols.scss');*/
+/*Off By Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/oldchanneldrawer.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/home.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/bannerlock.scss";
+/*On by Default*/
+@import "https://raw.githack.com/leeprky/FullyThemedDiscord/main/source.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/megaemoji.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/homecolor.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/statussize.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/statusbar.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/mutetext.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/newheaders.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/friendgrid.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/rgbhome.scss');*/
+/*Off By Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/listtest.scss');*/
+/*Off By Default*/
+@import "https://tropix126.github.io/BetterDiscordStuff/materialcons/base.scss";
+/*On by Default*/
+@import "https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/spotifystatus.scss";
+/*On by Default*/
+@import "https://raw.githubusercontent.com/Controlfreak707/Channel-Icons/main/channelicons.theme.scss";
+/*On by Default*/
+@import "https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/round-stuff.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/modals.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/activityscroll.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/modernmentions.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/statusmodals.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/newbuttons.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/spotifybar.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/serverbuttons.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/audioname.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/betterfriends.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/bannerrgb.scss');*/
+/*Off By Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/verifiedbots.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/banners.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/window.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/imagefocus.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/chatbarcolors.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/clearchatbar.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/compacthome.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/emoji.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/imgutilfix.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/icos.scss";
+/*On by Default*/
+@import "https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/hideblocked.scss";
+/*On by Default*/
+/*@import url('https://trigon.systems/api/v3/powercord/themes/aroma-white/mods/prideful.scss');*/
+/*Off by Default*/
+@import "https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.scss";
+/*On by Default*/
+:root {
+	/*User Modal Size*/
+	--user-modal-width: 900px;
+	--user-modal-height: 600px;
+/*Color Variables*/
+	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2));
+/*Accent Color of the Theme*/
+	--gradient1: #3ecc9c;
+/*First Gradient Color*/
+	--gradient2: #185a9d;
+/*Second Gradient Color*/
+	--hover-color: rgb(67, 206, 162);
+/*Secondary Accent of the Theme*/
+	--main-color-faded: rgba(67, 206, 162, 0.2);
+/*Faded Main Color*/
+/*Backdrop Variables*/
+	--backdrop: url(https://i.imgur.com/xcjXx3E.jpg);
+/*Normal Backdrop*/
+	--backdropblurred: url(https://i.imgur.com/ExNrzGV.jpg);
+/*Darker/Blurred Version of Backdrop*/
+	--backdrop-darkness: transparent;
+/*Brightness of var(--backdrop);*/
+/*Roundness Variables*/
+	--chat-avatar-roundness: 5px !important;
+/*Roundness of chat avatars*/
+	--media-roundness: 50px !important;
+/*General Roundness*/
+	--guild-hovered-roundness: 12px !important;
+/*Roundness of servers on hover*/
+/*Status Variables*/
+	--online: #43b581 !important;
+/*Color When someone is Online*/
+	--idle: #faa61a !important;
+/*Color When someone is Idle*/
+	--dnd: #f04747 !important;
+/*Color When someone is in Do Not Disturb*/
+	--offline: #636b75 !important;
+/*Color When someone is offline*/
+	--invisible: #747f8d !important;
+/*Color When someone is Invisible*/
+	--streaming: #643da7 !important;
+/*Color When someone is Streaming*/;
+}
