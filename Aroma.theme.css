@@ -102,7 +102,11 @@
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/icos.css');/*On by Default*/
 @import url('https://phoenixacevfx.github.io/Aroma-White/mods/hideblocked.css');/*On by Default*/
 /*@import url('https://phoenixacevfx.github.io/Aroma-White/mods/prideful.css');*//*Off by Default*/
+@import url('https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.css');/*On by Default*/
 :root {	
+/*User Modal Size*/
+  --user-modal-width: 900px;
+  --user-modal-height: 600px;
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
 	--gradient1: #3ecc9c; /*First Gradient Color*/	
