@@ -18,6 +18,9 @@ Simply use this code to customize the theme in your Custom CSS in GooseMod (CUST
 Module Selection Hopefully coming soon to GooseMod  
 ```css
 :root {	
+/*User Modal Size*/
+  --user-modal-width: 900px;
+  --user-modal-height: 600px;
 /*Color Variables*/	
 	--main-color: linear-gradient(150deg, var(--gradient1), var(--gradient2)); /*Accent Color of the Theme*/	
 	--gradient1: #3ecc9c; /*First Gradient Color*/	
