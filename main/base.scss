@@ -70,6 +70,7 @@ TABLE OF CONTENTS
   6.a. Transparency
   6.b. Selected and Hovered Content
   6.c. User Status
+  6.d. Server List Color
 7. Popups and Dropdowns
   7.a. Server Dropdown
   7.b. Status Picker
@@ -143,6 +144,7 @@ TABLE OF CONTENTS
 17. GooseMod Stuff
 18. Bot Stuff
 19. Web Edits
+20. Offline Container
 */
 
 /*1. Background and Sizing*/
@@ -2011,6 +2013,23 @@ body::before {
   .status-oxiHuE.typing-1KJk_j.invisible-1kp8Z0.typing-1KJk_j .pulsingEllipsisItem-32hhWL {
 	  background-color: var(--invisible) !important;
   }
+  /*6.d. Server List Color*/
+  .roleColor-rz2vM0::after {
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity: 0.125;
+  background: currentColor;
+}
+.membersGroup-v9BXpm + .member-3-YXUe {
+  margin-top: 5px;
+}
+.membersGroup-v9BXpm + .member-3-YXUe .roleColor-rz2vM0::after {
+  border-radius: 5px 5px 0 0;
+}
   
   /*============== END OF SECTION ============== */
   
@@ -5297,4 +5316,25 @@ header[data-guild-id="750876703747997738"] > .powercord-badge {
 .mobileContainer-1x7CLQ .subheader-AECc1B,
 .desktopSubHeader-3UUZGI {
   color: var(--gradient1);
+}
+/*Offline Container*/
+.container-16j22k {
+  /* You may need to adjust this */
+  --translate-px: -389px;
+  height: 1px;
+  transform: translateY(var(--translate-px));
+  background: transparent;
+}
+.container-16j22k::before {
+  content: 'You are offline!';
+  top: 0.5px;
+  position: absolute;
+  font-weight: 900;
+  font-size: smaller;
+  color: var(--info-danger-foreground);
+  text-transform: uppercase;
+}
+.container-16j22k > .content-1-zrf2,
+.container-16j22k > .problems-3mgf6w {
+  display: none;
 }
