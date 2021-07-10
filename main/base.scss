@@ -534,6 +534,26 @@ body::before {
   }
   
   /*3.d. Chat Input Area*/
+  .autocomplete-1vrmpx .scroller-lynW5A {
+  padding-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.autocomplete-1vrmpx .scroller-lynW5A > .base-1pYU8j {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.autocomplete-1vrmpx .scroller-lynW5A .autocompleteRowVertical-q1K4ky {
+  height: 39px;
+  margin: 0 8px;
+  padding: 0;
+  flex: 1 1 32%;
+}
+.autocomplete-1vrmpx .scroller-lynW5A .autocompleteRowVertical-q1K4ky:nth-last-child(2):not(:nth-child(n)) {
+  margin-right: 0;
+}
   /* Hides Textbox when you don't have permission to talk in the channel */
 .channelTextAreaDisabled-8rmlrp > div {
   display: none
