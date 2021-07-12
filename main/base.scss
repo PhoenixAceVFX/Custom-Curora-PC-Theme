@@ -2034,7 +2034,7 @@ body::before {
 	  background-color: var(--invisible) !important;
   }
   /*6.d. Server List Color*/
-  .roleColor-rz2vM0::after {
+.roleColor-rz2vM0::after {
   content: '';
   top: 0;
   left: 0;
@@ -2043,6 +2043,12 @@ body::before {
   position: absolute;
   opacity: 0.125;
   background: currentColor;
+}
+.member-3-YXUe .badges {
+  z-index: 0;
+}
+.member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0::after {
+  border-radius: 4px;
 }
 .membersGroup-v9BXpm + .member-3-YXUe {
   margin-top: 5px;
@@ -5357,4 +5363,19 @@ header[data-guild-id="750876703747997738"] > .powercord-badge {
 .container-16j22k > .content-1-zrf2,
 .container-16j22k > .problems-3mgf6w {
   display: none;
+}
+/*Misc*/
+/*NameRGB*/
+.roleColor-rz2vM0:not([style]),
+.headerTagUsernameNoNickname-2-Y5Ct {
+  color: transparent;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(to right, rgb(255, 67, 46), rgb(255, 172, 0), rgb(177, 235, 0), rgb(83, 187, 244), rgb(255, 133, 203));
+}
+/*NewPin*/
+.button-1ZiXG9[aria-label="Pin Message"] path {
+  d: path("M12 0c-5.522 0-10 4.395-10 9.815 0 5.505 4.375 9.268 10 14.185 5.625-4.917 10-8.68 10-14.185 0-5.42-4.478-9.815-10-9.815zm0 18c-4.419 0-8-3.582-8-8s3.581-8 8-8 8 3.582 8 8-3.581 8-8 8zm4-7h-3v3h-2v-3h-3v-2h3v-3h2v3h3v2z");
+}
+.button-1ZiXG9[aria-label="Unpin Message"] path {
+  d: path("M12 0c-5.522 0-10 4.395-10 9.815 0 5.505 4.375 9.268 10 14.185 5.625-4.917 10-8.68 10-14.185 0-5.42-4.478-9.815-10-9.815zm0 18c-4.419 0-8-3.582-8-8s3.581-8 8-8 8 3.582 8 8-3.581 8-8 8zm4-7h-8v-2h8v2z");
 }
